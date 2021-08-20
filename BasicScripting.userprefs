@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Mini_Quiz.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Latihan6\Latihan6.cs">
     <Files>
       <File FileName="Assets\Script\Latihan1.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\Mini_Quiz.cs" Line="10" Column="3" />
+      <File FileName="Assets\Script\Mini_Quiz.cs" Line="1" Column="1" />
+      <File FileName="Assets\Latihan4\Karakter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Latihan4\Latihan4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Latihan6\Latihan6.cs" Line="18" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -51,6 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Latihan4\Karakter.cs" />
+     <Compile Include="Assets\Latihan4\Latihan4.cs" />
+     <Compile Include="Assets\Latihan5\Manusia.cs" />
+     <Compile Include="Assets\Latihan5\Prajurit.cs" />
+     <Compile Include="Assets\Latihan6\Latihan6.cs" />
      <Compile Include="Assets\Script\Latihan1.cs" />
      <Compile Include="Assets\Script\Mini_Quiz.cs" />
  <Reference Include="UnityEngine.CoreModule">
